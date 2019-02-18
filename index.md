@@ -3,6 +3,6 @@
 ## [YeMa](https://cedricmeu.github.io/YeMa/)
 
 <div>
-  <p style="float: left;"><img width=200 height=200 src="https://github.com/CedricMeu/YeMa/blob/master/assets/icon/png/256x256.png?raw=true" /></p>
-  <p style="float: left;">The note taking app supporting Markdown, Syntax Highlighting and LaTeX.</p>
+<div style="float: left; width: 30%;"><img src="https://github.com/CedricMeu/YeMa/blob/master/assets/icon/png/512x512.png?raw=true" width="100" height="auto"/></div>
+<p style="float: left; width: 60%">The note taking app supporting Markdown, Syntax Highlighting and LaTeX.</p>
 </div>
