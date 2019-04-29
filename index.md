@@ -7,7 +7,6 @@
 <p style="float: left; width: 70%; height: 100px;">The note taking app supporting Markdown, Syntax Highlighting and LaTeX.</p>
 </div>
 
-<hr/>
 <br/>
 
 ## [JAIL](https://cedricmeu.github.io/JAIL/)
