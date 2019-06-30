@@ -10,8 +10,8 @@
 <hr/>
 <br/>
 
-## [JAIL](https://cedricmeu.github.io/JAIL/)
+## [JAIL]
 
 <div>
-<p style="width: 100%; height: 100px; padding: 0; margin: 0;">Just Another Imparative Language, is a little toy language I created as a side project. It doesn't do much but it does all that I wanted to Implement.</p>
+<p style="width: 100%; height: 100px; padding: 0; margin: 0;">Just Another Imparative Language, is a little toy language I am (re)creating as a side project. I had a sketchy working compiler written in C++ but it was useless. Now I am recreating it using <em>Swift</em> and <em>LLVMSwift</em></p>
 </div>
